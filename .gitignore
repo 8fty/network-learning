@@ -1,0 +1,13 @@
+# 忽略所有编译产生的可执行文件（具体文件名根据实际情况调整）
+calclient
+calserver
+udpServer
+server
+client
+*.o
+*.out
+a.out
+# 忽略临时文件
+*.txt
+myfifo
+dict.txt
